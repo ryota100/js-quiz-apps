@@ -18,6 +18,7 @@ const quiz = [
     }
 ];
 
+
 const $window = window;
 const $doc = document;
 // questionを挿入する場所を設定
